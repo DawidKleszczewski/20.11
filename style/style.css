@@ -2,9 +2,6 @@ body{
     background-color: rgb(63, 6, 6);
     margin: 0;
 }
-.grid-main{
-    display: grid;
-}
 .img1{
     display: block;
     height: 400px;
